@@ -129,9 +129,9 @@ const WebgiViewer = forwardRef((props, ref) => {
         setPreviewMode(false);
 
         gsap.to(positionRef, {
-            x: !isMobile? 1.56: 9.36,
-            y: !isMobile? 5.0: 10.95,
-            z: !isMobile? 0.01: 0.09,
+            x: !isMobile ? 1.56 : 9.36,
+            y: !isMobile ? 5.0 : 10.95,
+            z: !isMobile ? 0.01 : 0.09,
             scrollTrigger: {
                 trigger: '.display-section',
                 start: 'top bottom',
@@ -144,18 +144,18 @@ const WebgiViewer = forwardRef((props, ref) => {
                 cameraRef.positionTargetUpdated(true);
             },
         })
-            .to(targetRef, {
-                x: !isMobile? -0.55: -1.62,
-                y: !isMobile? 0.32: 0.02,
-                z: !isMobile? 0.0: -0.06,
-                scrollTrigger: {
-                    trigger: '.display-section',
-                    start: 'top bottom',
-                    end: 'top top',
-                    scrub: 2,
-                    immediateRender: false
-                },
-            })
+        gsap.to(targetRef, {
+            x: !isMobile ? -0.55 : -1.62,
+            y: !isMobile ? 0.32 : 0.02,
+            z: !isMobile ? 0.0 : -0.06,
+            scrollTrigger: {
+                trigger: '.display-section',
+                start: 'top bottom',
+                end: 'top top',
+                scrub: 2,
+                immediateRender: false
+            },
+        })
     }, [canvasContainerRef, viewerRef, positionRef, cameraRef, targetRef]);
 
     return (
