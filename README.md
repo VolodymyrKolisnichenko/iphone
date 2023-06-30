@@ -3,10 +3,10 @@
 <img src="./src/assets/images/iphone.png" alt="iphone"/>
 This is a web application project that simulates an iPhone interface. It provides a user interface resembling the iPhone's home screen, allowing users to interact with various applications and features.
 
-Live Demo
+<h2>Live Demo </h2>
 A live demo of the web application can be accessed <span> <a href="https://volodymyrkolisnichenko.github.io/iphone" target="_blank"> here. </span>
 
-Features
+<h2>Features</h2>
 Home screen with app icons mimicking the iPhone interface.
 Applications for various tasks and functions, such as messaging, weather, calendar, calculator, and more.
 Interactive elements and animations for a smooth user experience.
@@ -19,19 +19,19 @@ React: JavaScript library for building user interfaces, used to create and manag
 WebGI: WebGI is a library for working with 3D graphics in web applications. It provides powerful tools and features for creating and manipulating 3D graphics. The project utilizes the WebGI library for certain components or visual effects.
 Other dependencies and packages: The project utilizes various libraries and dependencies to enhance functionality and provide additional features. Refer to the project's package.json file for a complete list.
 
-Usage
+<h2>Usage</h2>
 To run the web application locally, follow these steps:
 
-Clone the repository:
+Clone the repository:<h3>Clone the repository:</h3>
 git clone https://github.com/volodymyrkolisnichenko/iphone.git
 
-Navigate to the project directory:
+<h3>Navigate to the project directory:</h3>
 cd iphone
 
-Install the dependencies:
+<h3>Install the dependencies:</h3>
 npm install
 
-Start the development server:
+<h3>Start the development server:</h3>
 npm run dev
 
 Open your web browser and visit http://localhost:3000 to view the application.
