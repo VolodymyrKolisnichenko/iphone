@@ -1,4 +1,4 @@
-<h3> iPhone Web Application </h3>
+<h2> iPhone Web Application </h2>
 <img src="./src/assets/images/iphone-14.jpg" alt="iphone-14"/>
 <img src="./src/assets/images/iphone.png" alt="iphone"/>
 This is a web application project that simulates an iPhone interface. It provides a user interface resembling the iPhone's home screen, allowing users to interact with various applications and features.
