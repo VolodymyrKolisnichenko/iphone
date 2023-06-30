@@ -4,7 +4,7 @@
 This is a web application project that simulates an iPhone interface. It provides a user interface resembling the iPhone's home screen, allowing users to interact with various applications and features.
 
 <h2>Live Demo </h2>
-A live demo of the web application can be accessed <span> <a href="https://volodymyrkolisnichenko.github.io/iphone" target="_blank"> here. </span>
+A live demo of the web application can be accessed <span> <a href="https://volodymyrkolisnichenko.github.io/iphone" target="_blank" /> here. </span>
 
 <h2>Features</h2>
 Home screen with app icons mimicking the iPhone interface.
@@ -49,4 +49,4 @@ Submit a pull request explaining the changes you made.
 This project was inspired by the design and functionality of the iPhone interface. Thank you to all the open-source contributors whose libraries and tools were used in this project.
 
 <h2>Contact</h2>
-For any questions, feedback, or inquiries, please contact <span> <a href="https://github.com/VolodymyrKolisnichenko" target="_blank"> Volodymyr Kolisnichenko.</span> 
+For any questions, feedback, or inquiries, please contact <span> <a href="https://github.com/VolodymyrKolisnichenko" target="_blank" /> Volodymyr Kolisnichenko.</span> 
