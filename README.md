@@ -36,19 +36,20 @@ npm run dev
 
 Open your web browser and visit http://localhost:3000 to view the application.
 
-Contributing
+<h2>Contributing</h2>
 Contributions are welcome! If you would like to contribute to the project, please follow these steps:
 
-Fork the repository.
+<h2>Fork the repository.</h2>
 Create a new branch for your feature or bug fix.
 Make your modifications.
 Commit and push your changes.
 Submit a pull request explaining the changes you made.
-License
+
+<h2>License</h2>
 This project is licensed under the MIT License.
 
-Acknowledgments
+<h2>Acknowledgments</h2>
 This project was inspired by the design and functionality of the iPhone interface. Thank you to all the open-source contributors whose libraries and tools were used in this project.
 
-Contact
+<h2>Contact</h2>
 For any questions, feedback, or inquiries, please contact <span> <a href="https://github.com/VolodymyrKolisnichenko" target="_blank"> Volodymyr Kolisnichenko.</span> 
