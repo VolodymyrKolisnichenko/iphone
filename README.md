@@ -11,7 +11,7 @@ Home screen with app icons mimicking the iPhone interface.
 Applications for various tasks and functions, such as messaging, weather, calendar, calculator, and more.
 Interactive elements and animations for a smooth user experience.
 Responsive design to ensure compatibility with different screen sizes.
-Technologies Used
+<h2>Technologies Used</h2>
 HTML: Markup language for creating the structure and content of the web application.<br>
 CSS: Stylesheets for defining the visual appearance and layout of the application.<br>
 JavaScript: Programming language used for adding interactivity and dynamic features.<br>
