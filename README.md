@@ -1,4 +1,5 @@
 ### iPhone Web Application
+<img src="./src/assets/images/iphone-14.jpg"/>
 This is a web application project that simulates an iPhone interface. It provides a user interface resembling the iPhone's home screen, allowing users to interact with various applications and features.
 
 Live Demo
@@ -49,5 +50,4 @@ Acknowledgments
 This project was inspired by the design and functionality of the iPhone interface. Thank you to all the open-source contributors whose libraries and tools were used in this project.
 
 Contact
-For any questions, feedback, or inquiries, please contact  
-  <span> <a href="https://volodymyrkolisnichenko.github.io/portfolio" target="_blank"> Volodymyr Kolisnichenko.</span> 
+For any questions, feedback, or inquiries, please contact <span> <a href="https://volodymyrkolisnichenko.github.io" target="VolodymyrKolisnichenko"> Volodymyr Kolisnichenko.</span> 
