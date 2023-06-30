@@ -12,11 +12,11 @@ Applications for various tasks and functions, such as messaging, weather, calend
 Interactive elements and animations for a smooth user experience.
 Responsive design to ensure compatibility with different screen sizes.
 Technologies Used
-HTML: Markup language for creating the structure and content of the web application.
-CSS: Stylesheets for defining the visual appearance and layout of the application.
-JavaScript: Programming language used for adding interactivity and dynamic features.
-React: JavaScript library for building user interfaces, used to create and manage components.
-WebGI: WebGI is a library for working with 3D graphics in web applications. It provides powerful tools and features for creating and manipulating 3D graphics. The project utilizes the WebGI library for certain components or visual effects.
+HTML: Markup language for creating the structure and content of the web application.<br>
+CSS: Stylesheets for defining the visual appearance and layout of the application.<br>
+JavaScript: Programming language used for adding interactivity and dynamic features.<br>
+React: JavaScript library for building user interfaces, used to create and manage components.<br>
+WebGI: WebGI is a library for working with 3D graphics in web applications. It provides powerful tools and features for creating and manipulating 3D graphics. The project utilizes the WebGI library for certain components or visual effects.<br>
 Other dependencies and packages: The project utilizes various libraries and dependencies to enhance functionality and provide additional features. Refer to the project's package.json file for a complete list.
 
 <h2>Usage</h2>
@@ -37,13 +37,13 @@ npm run dev
 Open your web browser and visit http://localhost:3000 to view the application.
 
 <h2>Contributing</h2>
-Contributions are welcome! If you would like to contribute to the project, please follow these steps:
+Contributions are welcome! If you would like to contribute to the project, please follow these steps:<br>
 
-<h2>Fork the repository.</h2>
-Create a new branch for your feature or bug fix.
-Make your modifications.
-Commit and push your changes.
-Submit a pull request explaining the changes you made.
+Fork the repository.<br>
+Create a new branch for your feature or bug fix.<br>
+Make your modifications.<br>
+Commit and push your changes.<br>
+Submit a pull request explaining the changes you made.<br>
 
 <h2>Acknowledgments</h2>
 This project was inspired by the design and functionality of the iPhone interface. Thank you to all the open-source contributors whose libraries and tools were used in this project.
