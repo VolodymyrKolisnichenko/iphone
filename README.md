@@ -45,9 +45,6 @@ Make your modifications.
 Commit and push your changes.
 Submit a pull request explaining the changes you made.
 
-<h2>License</h2>
-This project is licensed under the MIT License.
-
 <h2>Acknowledgments</h2>
 This project was inspired by the design and functionality of the iPhone interface. Thank you to all the open-source contributors whose libraries and tools were used in this project.
 
