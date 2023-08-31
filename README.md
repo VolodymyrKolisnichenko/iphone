@@ -1,7 +1,7 @@
 <h2> iPhone Web Application </h2>
 <img src="./src/assets/images/iphone-14.jpg" alt="iphone-14"/>
 <img src="./src/assets/images/iphone.png" alt="iphone"/>
-This is a web application project that simulates an iPhone interface. It provides a user interface resembling the iPhone's home screen, allowing users to interact with various applications and features.
+This project is designed to emulate the visual and tactile experience of using an iPhone within a web application.
 
 <h2>Live Demo </h2>
 A live demo of the web application can be accessed <span> <a href="https://volodymyrkolisnichenko.github.io/iphone" target="_blank" /> here. </span>
