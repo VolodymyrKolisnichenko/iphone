@@ -4,7 +4,7 @@
 This project is designed to emulate the visual and tactile experience of using an iPhone within a web application.
 
 <h2>Live Demo </h2>
-A live demo of the web application can be accessed <span> <a href="https://volodymyrkolisnichenko.github.io/iphone" target="_blank" /> here. </span>
+A live demo of the web application can be accessed <span> <a href="https://vk-workshop.github.io/iphone" target="_blank" /> here. </span>
 
 <h2>Features</h2>
 Home screen with app icons mimicking the iPhone interface.
