@@ -23,7 +23,7 @@ Other dependencies and packages: The project utilizes various libraries and depe
 To run the web application locally, follow these steps:
 
 Clone the repository:<h3>Clone the repository:</h3>
-git clone https://github.com/volodymyrkolisnichenko/iphone.git
+git clone https://github.com/vk-workshop/iphone.git
 
 <h3>Navigate to the project directory:</h3>
 cd iphone
